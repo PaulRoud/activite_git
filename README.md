@@ -1,1 +1,1 @@
-# activite_git
+Bienvenue sur le "Readme" de mon premier repository git.
